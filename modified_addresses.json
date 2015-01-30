@@ -136,96 +136,163 @@
    },
    {
       "action" : "move",
+      "koordinater" : [
+         55.1766136,
+         11.6473069
+      ],
       "osak:identifier" : "0A3F5086470432B8E0440003BA298018",
       "reason" : "in water"
    },
    {
       "action" : "delete",
-      "osak:identifier" : "0A3F5082686D32B8E0440003BA298018",
-      "reason" : "in water"
-   },
-   {
-      "action" : "delete",
+      "koordinater" : [
+         55.4044235,
+         12.2908003
+      ],
       "osak:identifier" : "0A3F5082686532B8E0440003BA298018",
       "reason" : "in water"
    },
    {
       "action" : "delete",
+      "koordinater" : [
+         55.3953471,
+         12.3167835
+      ],
       "osak:identifier" : "0A3F5082628232B8E0440003BA298018",
       "reason" : "nothing there"
    },
    {
       "action" : "delete",
+      "koordinater" : [
+         55.4123474,
+         12.2416582
+      ],
       "osak:identifier" : "2137E852C6F4492B818F07C1AC2128C1",
       "reason" : "middle of road, number does not make sense"
    },
    {
       "action" : "delete",
+      "koordinater" : [
+         55.3550389,
+         11.8600306
+      ],
       "osak:identifier" : "3E704CA9AA413598E0440003BA298018",
       "reason" : "nothing there"
    },
    {
       "action" : "delete",
+      "koordinater" : [
+         55.335251,
+         11.31196
+      ],
       "osak:identifier" : "0A3F5084555C32B8E0440003BA298018",
       "reason" : "Wrong location many km away"
    },
    {
       "action" : "delete",
+      "koordinater" : [
+         55.3358419,
+         11.2993316
+      ],
       "osak:identifier" : "0AB23A20C6DA61D9E0440003BA298018",
       "reason" : "2014: wrong coordinates"
    },
    {
       "action" : "delete",
+      "koordinater" : [
+         55.650852,
+         12.26733
+      ],
       "osak:identifier" : "362E6B234C620F9BE0440003BA298018",
       "reason" : "null coordinates in OSAK"
    },
    {
       "action" : "delete",
+      "koordinater" : [
+         55.4572651,
+         11.8240439
+      ],
       "osak:identifier" : "11DB242346E75796E0440003BA298018",
       "reason" : "wrong coordinates"
    },
    {
       "action" : "delete",
+      "koordinater" : [
+         55.6592731,
+         12.0148821
+      ],
       "osak:identifier" : "0A3F5081DF1032B8E0440003BA298018",
       "reason" : "Ligger midt i en sø"
    },
    {
       "action" : "move",
+      "koordinater" : [
+         55.646601,
+         11.9539709
+      ],
       "osak:identifier" : "0A3F5081C37E32B8E0440003BA298018",
       "reason" : "Husnumre ligger i forkert rækkefølge. Omplaceres fra 73 - 85. Ikke 83 - 81 - 73 - 75 - 77 - 79 - 85"
    },
    {
       "action" : "move",
+      "koordinater" : [
+         55.6463792,
+         11.9547838
+      ],
       "osak:identifier" : "0A3F5081C37D32B8E0440003BA298018",
       "reason" : "Husnumre ligger i forkert rækkefølge. Omplaceres fra 73 - 85. Ikke 83 - 81 - 73 - 75 - 77 - 79 - 85"
    },
    {
       "action" : "move",
+      "koordinater" : [
+         55.6464161,
+         11.9546484
+      ],
       "osak:identifier" : "0A3F5081C37C32B8E0440003BA298018",
       "reason" : "Husnumre ligger i forkert rækkefølge. Omplaceres fra 73 - 85. Ikke 83 - 81 - 73 - 75 - 77 - 79 - 85"
    },
    {
       "action" : "move",
+      "koordinater" : [
+         55.6465642,
+         11.9541062
+      ],
       "osak:identifier" : "0A3F5081C37B32B8E0440003BA298018",
       "reason" : "Husnumre ligger i forkert rækkefølge. Omplaceres fra 73 - 85. Ikke 83 - 81 - 73 - 75 - 77 - 79 - 85"
    },
    {
       "action" : "move",
+      "koordinater" : [
+         55.646527,
+         11.9542416
+      ],
       "osak:identifier" : "0A3F5081C37A32B8E0440003BA298018",
       "reason" : "Husnumre ligger i forkert rækkefølge. Omplaceres fra 73 - 85. Ikke 83 - 81 - 73 - 75 - 77 - 79 - 85"
    },
    {
       "action" : "move",
+      "koordinater" : [
+         55.6464901,
+         11.9543777
+      ],
       "osak:identifier" : "0A3F5081C37932B8E0440003BA298018",
       "reason" : "Husnumre ligger i forkert rækkefølge. Omplaceres fra 73 - 85. Ikke 83 - 81 - 73 - 75 - 77 - 79 - 85"
    },
    {
       "action" : "move",
+      "koordinater" : [
+         55.6464532,
+         11.9545129
+      ],
       "osak:identifier" : "0A3F5081C37832B8E0440003BA298018",
       "reason" : "Husnumre ligger i forkert rækkefølge. Omplaceres fra 73 - 85. Ikke 83 - 81 - 73 - 75 - 77 - 79 - 85"
    },
    {
       "action" : "delete",
+      "koordinater" : [
+         55.735757,
+         12.1607267
+      ],
       "osak:identifier" : "AB9C1C191EAF4ADD801C0FD70B51C015",
       "reason" : "On top of road in Bing map"
    },
