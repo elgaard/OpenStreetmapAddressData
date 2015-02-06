@@ -300,5 +300,245 @@
       "action" : "delete",
       "osak:identifier" : "0A3F507BAC8F32B8E0440003BA298018",
       "reason" : "Ude midt i en sø"
-   }
+   },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.6937126, 12.4233664
+      ],
+    "reason": "it is wrong coordinates",
+    "osak:identifier": "7096F61861BE5ED1E04400144F3EAD67"
+  },
+  {
+    "action": "move",
+      "koordinater" : [
+	55.644607, 12.219782
+      ],
+    "reason": "villa not shed",
+    "osak:identifier": "0A3F507D19CB32B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+      "koordinater" : [
+	 55.0600178, 12.1237907
+      ],
+    "reason": "6 m2, shed, was in water",
+    "osak:identifier": "0A3F5085638B32B8E0440003BA298018"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.6226911, 11.3447117
+      ],
+    "reason": "bar mark",
+    "osak:identifier": "0A3F50836CF532B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+      "koordinater" : [
+	55.2501981, 11.3074271
+      ],
+    "reason": "wrong street",
+    "osak:identifier": "0A3F50842F0032B8E0440003BA298018"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.252101, 11.3066521
+      ],
+    "reason": "wrong coord",
+    "osak:identifier": "1A4890D509EF43E4A5944F4B559E9A3E"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.218364, 11.298543
+      ],
+    "reason": "wrong coord",
+    "osak:identifier": "747DC73EE8654B618230E0AFBD20BA41"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.448631, 11.306556
+      ],
+    "reason": "Addressepunkt ligger på bar mark",
+    "osak:identifier": "734C006FB9A417AFE04400144F3EAD67"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.4778272, 11.3165264
+      ],
+    "reason": "Addressepunkt ligger på bar mark",
+    "osak:identifier": "0A3F50836CEB32B8E0440003BA298018"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.4780694, 11.3166412
+      ],
+    "reason": "Addressepunkt ligger på bar mark",
+    "osak:identifier": "0A3F50836CED32B8E0440003BA298018"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.4784125, 11.3168359
+      ],
+    "reason": "Addressepunkt ligger på bar mark",
+    "osak:identifier": "0A3F50836CEC32B8E0440003BA298018"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.500495, 11.228539
+      ],
+    "reason": "Addressepunkt ligger på bar mark",
+    "osak:identifier": "873C5AE1F6144884B74781D655089EA0"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.616486, 11.29417
+      ],
+    "reason": "Addressepunkt på bar mark - og ikke tilknyttet et hus eller grund",
+    "osak:identifier": "9BB65C0504A14A1290075E301702689F"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.7296768, 11.0093238
+      ],
+    "reason": "ingen bygning tilknyttet addresse",
+    "osak:identifier": "645DB24AF1F33388E0440003BA298018"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.698629, 12.419022
+      ],
+    "reason": "wrong coordinates",
+    "osak:identifier": "4CA54B0F2CC30052E0440003BA298018"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.469128, 11.3766336
+      ],
+    "reason": "Addressepunkt ligger på bar mark",
+    "osak:identifier": "22729A66887344D0E0440003BA298018"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.4629173, 11.3346409
+      ],
+    "reason": "",
+    "osak:identifier": "604AD59E36047474E0440003BA298018"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+      55.4676784, 11.3359068
+      ],
+    "reason": "Addressepunkt ligger på bar mark",
+    "osak:identifier": "604AD59E36037474E0440003BA298018"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [55.4666385, 11.3063874  
+      ],
+    "reason": "Addressepunkt ligger på bar mark",
+    "osak:identifier": "0A3F508451DE32B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.352793, 11.187869
+      ],
+    "reason": "moved to Tårnby borgbanke",
+    "osak:identifier": "25104B374FF643618227802507FDCB43"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+      55.358488, 11.192356
+      ],
+    "reason": "Addressepunkt ligger på bar mark og synes ikke tilknyttet grund eller hus",
+    "osak:identifier": "2651861474544540A4956CCA3067EF3E"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+      55.5074051, 11.2438372
+      ],
+    "reason": "Addressepunkt ligger på bar mark",
+    "osak:identifier": "0A3F5082EFF232B8E0440003BA298018"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+      55.4832304, 11.3429367
+      ],
+    "reason": "Addressepunkt ligger på bar mark",
+    "osak:identifier": "39ECE5FBF0E50EE2E0440003BA298018"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+      	55.705942, 11.044203
+      ],
+    "reason": "ingen bygning tilknyttet addresse",
+    "osak:identifier": "F39C03BAC57745B6B768F208AA380D6F"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+      55.70799, 11.101216
+      ],
+    "reason": "wrong coordinates",
+    "osak:identifier": "0A3F5083830A32B8E0440003BA298018"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+   55.5302507, 11.3530303
+      ],
+    "reason": "wrong coordinates",
+    "osak:identifier": "0C77EFBB508545FBB9588CEB9089328C"
+  },
+  {
+    "action": "delete",
+      "koordinater" : [
+	55.6124752, 11.2587992
+      ],
+    "reason": "Addressepunkt på bar mark - og ikke tilknyttet et hus eller grund",
+    "osak:identifier": "604AD59E35FB7474E0440003BA298018"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+      55.7916199, 12.4686143
+      ],
+    "reason": "seems to be wrong coordinates",
+    "osak:identifier": "0A3F507D6FC132B8E0440003BA298018"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 ]
+
