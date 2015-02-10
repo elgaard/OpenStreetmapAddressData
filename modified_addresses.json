@@ -523,22 +523,223 @@
       ],
     "reason": "seems to be wrong coordinates",
     "osak:identifier": "0A3F507D6FC132B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.256281, 12.0302168
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF8E32B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.2563056, 12.0302187
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF8D32B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.2563325, 12.0302247
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF8C32B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.2563325, 12.0302247
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF8C32B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.2563528, 12.0302223
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF8B32B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.2563752, 12.030224
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF8A32B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.2563999, 12.0302259
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF8932B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.2564178, 12.0302272
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF8832B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.2564447, 12.0302293
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF8732B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.2564766, 12.0302286
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF8632B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.256261, 12.0303924
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF9732B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.256261, 12.0303924
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF9732B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.2563102, 12.0303961
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF9532B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+       55.2563328, 12.0303939
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF9432B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.2563596, 12.0303999
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF9332B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+      55.256387, 12.030402
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF9232B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+   55.2564157, 12.0304042
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF9132B8E0440003BA298018"
+  },
+  {
+    "action": "move",
+    "koordinater" : [
+   55.2564718, 12.0304045
+      ],
+    "reason": "Does not fit actual position of house. Looks like a temporary position.",
+    "osak:identifier": "0A3F5086AF8F32B8E0440003BA298018"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+      55.200873, 11.277094
+      ],
+    "reason": "Addressepunktet ligger i havet",
+    "osak:identifier": "0A3F5084285432B8E0440003BA298018"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+      55.3700739, 11.1618185
+      ],
+    "reason": "Adressepunkt ligger midt i ingenting",
+    "osak:identifier": "F69A8D66234A4D06B15A151303DD976C"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+   55.5906257, 11.2470263
+      ],
+    "reason": "Addressepunkt på bar mark - og ikke tilknyttet et hus eller grund",
+    "osak:identifier": "DBD3186B606F4768813BCC661E6309FA"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+   55.5942, 11.254876
+      ],
+    "reason": "Addressepunkt på bar mark - og ikke tilknyttet et hus eller grund",
+    "osak:identifier": "959DCEACD2B74A699BBE87CBA4000B2C"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+    55.7257496, 11.0454288
+      ],
+    "reason": "ingen bygning tilknyttet addresse, ingen BBR",
+    "osak:identifier": "0A3F5083893E32B8E0440003BA298018"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+   55.995324, 11.911969
+      ],
+    "reason": "Addressepunktet ligger i havet",
+    "osak:identifier": "0A3F5080302F32B8E0440003BA298018"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+    56.0995977, 12.1615414
+      ],
+    "reason": "Addressepunktet befinder sig i havet",
+    "osak:identifier": "E16EA945-CAE1-471F-ADF8-97C22AB33399"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+      55.883342, 12.487326
+      ],
+    "reason": "seems to be wrong coordinates",
+    "osak:identifier": "693C8A9178E528DEE04400144F3EAD67"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+      55.6177644, 12.5751328
+      ],
+    "reason": "ligger 170m fra vejen nær Otto Baches Alle",
+    "osak:identifier": "32B79AC4B5440587E0440003BA298018"
   }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
 ]
 
