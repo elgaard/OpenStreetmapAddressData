@@ -739,6 +739,14 @@
       ],
     "reason": "ligger 170m fra vejen nær Otto Baches Alle",
     "osak:identifier": "32B79AC4B5440587E0440003BA298018"
+  },
+  {
+    "action": "delete",
+    "koordinater" : [
+     55.3228159, 12.448582
+      ],
+    "reason": "Addressepunktet ligger i havet",
+    "osak:identifier": "0A3F5086D75A32B8E0440003BA298018"
   }
 
 ]
